@@ -30,11 +30,11 @@
       "id": "bato",
       "class": "",
       "Datasource": {
-        "file": "/home/nlehuby/github/bato_collecte/resultats/BATO.csv",
+        "file": "/home/nlehuby/github/bato_collecte/resultats/bato_20161125.shp",
         "id": "bato",
         "project": "BATO",
         "srs": "",
-        "type": "csv"
+        "type": "shape"
       },
       "layer": null,
       "srs-name": "autodetect",
@@ -46,5 +46,5 @@
   "scale": 1,
   "metatile": 2,
   "name": "",
-  "description": ""
+  "description": "Rendu du projet BATO avec les données en shapefile"
 }
